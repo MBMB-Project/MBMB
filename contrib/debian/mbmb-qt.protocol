@@ -1,0 +1,11 @@
+[Protocol]
+exec=mbmb-qt '%u'
+protocol=mbmb
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

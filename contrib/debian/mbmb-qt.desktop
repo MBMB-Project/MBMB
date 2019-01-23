@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MBMB
+Comment=MBMB P2P Cryptocurrency
+Comment[fr]=MBMB, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MBMB, eşten eşe kriptografik sanal para birimi
+Exec=mbmb-qt %u
+Terminal=false
+Type=Application
+Icon=mbmb128
+MimeType=x-scheme-handler/mbmb;
+Categories=Office;Finance;
