@@ -11,8 +11,8 @@
 <tr><td>Premine</td><td>3%</td></tr>
 <tr><td>Minimum Stake Age</td><td>1 Hour</td></tr>
 <tr><td>Coin Maturity</td><td>60 Block</td></tr>
-<tr><td>RPC Port</td><td>11118</td></tr>
-<tr><td>Network Port</td><td>11119</td></tr>
+<tr><td>RPC Port</td><td>2118</td></tr>
+<tr><td>Network Port</td><td>2119</td></tr>
 <tr><td>Masternode Collateral</td><td>1000 MBMB</td></tr>
 </tbody></table>
 <h3>Reward Distribution</h3>
