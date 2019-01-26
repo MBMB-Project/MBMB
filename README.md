@@ -1,7 +1,7 @@
 <h3>MBMB Specification</h3>
 <table>
 <tbody>
-<tr><td>Coin Name</td><td>MBMB Coin</td></tr>
+<tr><td>Coin Name</td><td>MBMB</td></tr>
 <tr><td>Ticker</td><td>MBMB</td></tr>
 <tr><td>Coin Type</td><td>POS + Masternode</td></tr>
 <tr><td>Algorithm</td><td>Quark</td></tr>
